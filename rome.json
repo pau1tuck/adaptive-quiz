@@ -11,6 +11,11 @@
 		"lineWidth": 80,
 		"ignore": []
 	},
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "double"
+		}
+	},
 	"linter": {
 		"enabled": true,
 		"rules": {
